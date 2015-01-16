@@ -1,4 +1,5 @@
 project semi-offline
 container captainSemiOffline master
 
-use LCGCMT master
+use LCGCMT 1.2.1
+
