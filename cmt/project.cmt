@@ -1,0 +1,4 @@
+project semi-offline
+container captainSemiOffline master
+
+use LCGCMT master
